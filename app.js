@@ -12,3 +12,7 @@ console.log(newStr);
 newStr = newStr.slice(1,5)
 console.log(newStr);
 console.log(newStr.slice(-4));
+
+let msg = "ILovecoding";
+let newMsg = msg.replace("Love","do");
+console.log(newMsg);
