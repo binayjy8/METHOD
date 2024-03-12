@@ -6,4 +6,5 @@ console.log(newPass);
 let name = "binay Bhusan";
 console.log(name.toUpperCase());
 
-let str = "iLovecoding";
+let str = "iLovecoding     ";
+let newStr = str.trim().toUpperCase();
